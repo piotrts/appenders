@@ -1,4 +1,4 @@
-Appenders for Timbre
+# Appenders for Timbre
 
 Currently contains:
  - datetime-spit-appender
