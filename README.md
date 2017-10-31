@@ -26,6 +26,8 @@ To specify output path (that should be a *java.text.SimpleDateFormat* pattern) p
 
 ## notify-appender
 
+![notify-appender screenshot](https://raw.githubusercontent.com/piotrts/appenders/docs/notify.png)
+
 Make sure have `notify-send` in your `$PATH` for this to work.
 
 Contributors welcome!
