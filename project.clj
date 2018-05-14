@@ -1,4 +1,4 @@
-(defproject piotrts/appenders "0.1.0-SNAPSHOT"
+(defproject piotrts/appenders "0.1.0"
   :description "Appenders for Timbre"
   :url "https://github.com/piotrts/appenders"
   :license {:name "Eclipse Public License"
